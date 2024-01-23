@@ -1,5 +1,7 @@
-This project was conducted as part of the ”Apren-
-dizagem Computacional” course in the first year of the Master’s
+*Machine Learning for NBA All-Star Game selection*
+
+This project was conducted as part of the ”Aprendizagem Computacional” 
+course in the first year of the Master’s
 degree in Electrical and Computer Engineering at FEUP. The
 main objective is to develop a machine learning model to predict
 NBA All-Star selections based on players’ performance statistics.
